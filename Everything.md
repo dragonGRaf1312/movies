@@ -49,6 +49,7 @@ My new Movie Nights Server https://discord.gg/btJY4mAgjS
 - Inception
 - Inside Man
 - Jack Reacher
+- Jane wants a boyfriend
 - John Wicks (all)
 - Jumper
 - Jurrassic Park/World (almost all)
@@ -64,6 +65,7 @@ My new Movie Nights Server https://discord.gg/btJY4mAgjS
 - Monsters of Man
 - Mortal Engines
 - Mozart and the Whale
+- My Name is Khan
 - My Name Is Nobody
 - My Sisters Keeper
 - Night at the Museum (almost all)
@@ -71,6 +73,7 @@ My new Movie Nights Server https://discord.gg/btJY4mAgjS
 - Parasyte Part 1
 - Passengers
 - Pokemon Detective Pikachu
+- Please Stand By
 - Primal Fear
 - Radius
 - Raya and the Last Dragon
@@ -135,4 +138,21 @@ My new Movie Nights Server https://discord.gg/btJY4mAgjS
 - We need to talk about the kevin
 - Wedding Crashers
 - Werewolves Within
-- 
+
+## Short Animated Movies
+- Float
+- Loop
+- Purl
+
+## Series
+- Avatar The Last Airbender
+- Family Guy
+- Fire Force 
+- Kung Fu 19-72-1875
+- Kung Fu Panda Legends of Awesomeness
+- Lethal Weapon
+- Stargate
+- Supernatural
+- The Legend of Korra
+- The Mandalorian
+- Wandavision
